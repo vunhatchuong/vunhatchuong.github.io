@@ -6,8 +6,8 @@ categories: [Code, Project]
 tags: [rasa, python, nlp, docker, gitlab-ci]
 ---
 
-My Rasa Chatbot project created when in Internship for SIU AILAB for student admission intended for Facebook Messenger and personal website.
+My Rasa Chatbot project was created when I was in Internship for SIU AILAB for student admission intended for Facebook Messenger and personal website.
 
 Utilize docker and gitlab-ci for auto deployment.
 
-You can read a more detail document and checkout code from this [Github Repo](https://github.com/vunhatchuong123/rasa-chatbot).
+You can read a more detailed document and checkout code from this [Github Repo](https://github.com/vunhatchuong123/rasa-chatbot).

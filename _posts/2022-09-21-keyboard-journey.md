@@ -14,13 +14,21 @@ This is a blog about my journey in the keyboard hobby and everything I learn alo
 
 ### 40% Layout
 
+#### Definition
+
+#### TU40
+
+#### BM40
+
+#### Resources
+
 ### Split Layout
 
 #### Definition
 
 Taken from splitkb docs:
 
->As the name implies, a split keyboard is a keyboard that is split, often into two halves. You'll have two separate pieces, connected by a cable or wirelessly. Most split keyboards use a TRRS/TRS cable to connect the two halves. The half that you connect to the computer is often called the master, and the half that is connected to the master is in turn called the slave. 
+>As the name implies, a split keyboard is a keyboard that is split, often into two halves. You'll have two separate pieces, connected by a cable or wirelessly. Most split keyboards use a TRRS/TRS cable to connect the two halves. The half that you connect to the computer is often called the master, and the half that is connected to the master is in turn called the slave.
 
 #### Ergonomic
 
@@ -33,6 +41,7 @@ Split keyboard is not popular in my country so there's a limited option to choos
 Sofle, especially V1 is the one that catch my eye. You have 2 OLEDs, 2 rotary encoders.
 A more comfortable layout for my small hands than Sofle V2.
 
+![Sofle V1 compares to V2](/assets/image/Sofle_Compare.png)
 Specs:
 
 - Akko Black On White keycaps.
