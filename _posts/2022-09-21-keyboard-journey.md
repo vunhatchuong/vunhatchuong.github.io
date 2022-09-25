@@ -45,7 +45,7 @@ A more comfortable layout for my small hands than Sofle V2.
 
 I bought my Sofle from Kiwikey, unfortunately the knobs color is random and the TRS coil cable is broken so I need to buy a scuff one.
 
-![Sofle keyboard from Kiwikey](assets/image/../../../assets/image/My_Sofle_V1.jpg)
+![Sofle keyboard from Kiwikey](/assets/image/My_Sofle_V1.jpg)
 
 Specs:
 
