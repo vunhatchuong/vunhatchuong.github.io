@@ -21,10 +21,10 @@ Since I mainly use VscodeVim, keymapping related will be the main focus.
 
 ### General
 
-| Command                     | Description |
-| --------------------------- | ----------- |
-| za                          | Toggle fold |
-| %" Jump to matching bracket |             |
+| Command | Description              |
+| ------- | ------------------------ |
+| za      | Toggle fold              |
+| %      | Jump to matching bracket |
 
 ### Text-object
 
