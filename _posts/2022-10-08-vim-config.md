@@ -24,7 +24,7 @@ Since I mainly use VscodeVim, keymapping related will be the main focus.
 | Command | Description              |
 | ------- | ------------------------ |
 | za      | Toggle fold              |
-| %      | Jump to matching bracket |
+| %       | Jump to matching bracket |
 
 ### Text-object
 
@@ -35,16 +35,16 @@ Since I mainly use VscodeVim, keymapping related will be the main focus.
 
 ### Horizontal Movement
 
-| Command | Description                                  |
-| ------- | -------------------------------------------- |
-| 🔢)    | N sentence forward                           |
-| 🔢(    | N sentence backward                          |
-| 🔢}    | N paragraph forward                          |
-| {       | N paragraph backward                         |
-| 🔢 [{  | N times back to unclosed '{'                 |
-| 🔢 ])  | N times forward to unclosed ')'              |
-| f{char} | to the Nth occurrence of {char} to the right |
-| F{char} | to the Nth occurrence of {char} to the left  |
+| Command    | Description                                  |
+| ---------- | -------------------------------------------- |
+| 🔢)       | N sentence forward                           |
+| 🔢(       | N sentence backward                          |
+| 🔢}       | N paragraph forward                          |
+| 🔢{       | N paragraph backward                         |
+| 🔢 [{     | N times back to unclosed '{'                 |
+| 🔢 ])     | N times forward to unclosed ')'              |
+| 🔢f{char} | to the Nth occurrence of {char} to the right |
+| 🔢F{char} | to the Nth occurrence of {char} to the left  |
 
 ### Vertical Movement
 
@@ -57,8 +57,8 @@ Since I mainly use VscodeVim, keymapping related will be the main focus.
 
 | Command    | Description                                               | Note                     |
 | ---------- | --------------------------------------------------------- | ------------------------ |
-| u          | undo last N changes                                       |                          |
-| CTRL-R     | redo last N undone changes                                |                          |
+| 🔢u       | undo last N changes                                       |                          |
+| 🔢CTRL-R  | redo last N undone changes                                |                          |
 | ci{        | Change inside '{}'                                        |                          |
 | ca{        | Change around '{}'                                        |                          |
 | g~{motion} | switch case for the text that is moved over with {motion} | can use u/U instead of ~ |
