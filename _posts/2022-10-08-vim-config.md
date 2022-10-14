@@ -116,6 +116,7 @@ Since I mainly use VscodeVim, keymapping related will be the main focus.
 | [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim)                                         | 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap                                                                                                | optional |
 | [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)                                         | A neovim lua plugin to help easily manage multiple terminal windows                                                                                            | optional |
 | [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)                                             | Debug Adapter Protocol client implementation for Neovim (>= 0.5)                                                                                               | optional |
+
 ### Extra Plugins
 
 Every plugin that works with Neovim works with LunarVim, here are some examples to get you started.
