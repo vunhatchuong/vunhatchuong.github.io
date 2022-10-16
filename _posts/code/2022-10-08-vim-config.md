@@ -1,5 +1,5 @@
 ---
-title: Vim config
+title: Vim Config
 author: Ronny
 date: 2022-10-08 17:36:00 +0700
 categories: [Code, Blog]
@@ -10,7 +10,7 @@ This is a collection of vim configs include keymaps, plugins, options.
 
 Since I mainly use VscodeVim, keymapping related will be the main focus.
 
-## Frequently use actions
+## Frequently used actions
 
 ---
 🔢 - command accepts numeric prefix
