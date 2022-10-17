@@ -17,6 +17,13 @@ WSL2 setup is really straight forward, just follow microsoft [guide](https://lea
 ### Installed
 
 - zsh, ohmyzsh
+- git and implement git-credential-manager from Windows.
+- lazygit
+- fzf
+
+```bash
+git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git-credential-manager-core.exe"
+```
 
 ## Vim
 
@@ -33,10 +40,14 @@ tmux is a terminal multiplexer, I have configure tmux keybind to has the same lo
 ### Requirements
 
 - xclip or xsel for clipboard
-- fzf
 
 ### Plugins
 
 | name                                                                          | description                                   |
 | ----------------------------------------------------------------------------- | --------------------------------------------- |
 | [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | Restore tmux environment after system restart |
+
+## TODO
+
+- [ ] create auto install apps.
+- [ ] Git-cred-manager [auto-installation](https://stackoverflow.com/questions/45925964/how-to-use-git-credential-store-on-wsl-ubuntu-on-windows).
